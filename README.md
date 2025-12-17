@@ -1,10 +1,10 @@
-# 🎓 Student Management System (Java)
+#  Student Management System (Java)
 
 A GUI-based Java application for managing student records — designed to help track, view, and evaluate academic data with ease. Built with Swing, it's lightweight, fast, and easy to use.
 
 ---
 
-## ✨ Features of the application
+##  Features of the application
 
 - Add new students with name, roll number, and marks
 - View all students in a dynamic table
@@ -47,22 +47,14 @@ This project uses file-based storage with `.dat` files to persist student data l
 ---
 ## 🚀 How to Run the Project
 
-1. **Clone the repository**
-   ```
-   git clone https://github.com/your-username/student-management-system.git
-   cd student-management-system
-   ```
-2. Open the project in IntelliJ IDEA or Eclipse
+1. Open the project in IntelliJ IDEA or Eclipse
 
-3. Run the file
+2. Run the file
      ```Compile and run StudentManagementSystem.java```
 
 ---
 
 ## 🗄️ Database Setup (Optional)
-
-This project optionally supports MySQL for persistence used by `SRMS.java` and `ForgotPassword.java`.
-
 - Install MySQL and create a database named `srmsdb`.
 - Import `MYSQL Local.session.sql` to create the tables.
 - Add MySQL Connector/J (mysql-connector-java-x.y.z.jar) to the `lib/` folder and run the app with `lib/` on the classpath.
@@ -79,14 +71,6 @@ If the JDBC driver is missing, the application shows an informative message in t
 
 ---
 
-## 📸 Local Screenshots
-These screenshots are also available inside the project folder under assets/screenshots/, for offline access.
-
-````
-assets/screenshots/login-screen.png  
-assets/screenshots/ui-main.png
-````
----
 
 ## 🔮 Future Improvements
 
@@ -99,7 +83,7 @@ assets/screenshots/ui-main.png
 ## 👨‍💻 Team
 
 1. Kanuri Sriram-
-   B.Tech in Computer Science & Engineering
+   B.Tech in  Electronics and Communication Engineering
 
 
 ---
