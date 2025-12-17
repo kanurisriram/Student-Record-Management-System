@@ -14,40 +14,6 @@ A GUI-based Java application for managing student records — designed to help t
 
 ---
 
-## 🖼️ Screenshots
-
-### 🔐 Login Screen Page
-![login-screen png](https://github.com/user-attachments/assets/f1fe23b7-24de-4958-991e-27f0b510446f)
-
-
-### 🧾 Main Interface UI  
-![ui-main png](https://github.com/user-attachments/assets/8a885155-4e92-4adb-a53a-84a9d11b9e28)
-
-
----
-
-## 📁 Project Structure
-
-This repository follows a clean, professional layout with a **single main branch** containing all necessary project files organized in folders:
-````
-student-management-system/
-├── src/
-│ ├── Student.java
-│ └── StudentManagementSystem.java
-├── assets/
-│ └── screenshots/
-│ ├── login-screen.png
-│ └── ui-main.png
-├── presentation/
-│ └── student-management-system-presentation.pptx
-├── README.md
-````
-
-## 📊 Project Presentation
-
-The project presentation is included in the `presentation/` folder for explanation of application features and operations.
-
----
 
 ## 🛠️ Technologies Used
 
@@ -132,10 +98,9 @@ assets/screenshots/ui-main.png
 
 ## 👨‍💻 Team
 
-1. Krishnendra Singh Sengar -
+1. Kanuri Sriram-
    B.Tech in Computer Science & Engineering
-2. Manjistha Chakraborthy -
-   B.Tech in Computer Science & Engineering
+
 
 ---
 
